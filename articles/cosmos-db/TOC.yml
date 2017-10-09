@@ -25,6 +25,8 @@
     items:
     - name: Node.js
       href: create-mongodb-nodejs.md
+    - name: Meteor
+      href: create-mongodb-meteor.md
     - name: .NET
       href: create-mongodb-dotnet.md
     - name: Java
